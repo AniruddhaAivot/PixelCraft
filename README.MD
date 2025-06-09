@@ -1,7 +1,7 @@
 # PixelCraft
-A pixel Art & Animation Creation Tool Built using HTML5 Canvas.  
-It is a Progressive Web App (PWA) with offline compatibility.  
-It is mobile-friendly and is very easy to use.  
+A powerful pixel art and animation tool built on HTML5 Canvas, designed for simplicity and creativity.
+As a Progressive Web App (PWA), it works seamlessly offline and offers a smooth experience across both desktop and mobile devices.
+Whether you're a beginner or a pro, it's intuitive and easy to use.
 
 ![PixelCraft](icons/logo.png)
 
